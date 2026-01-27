@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Tayyab</h1>
 <h3 align="center">
-Software Engineer | MERN Stack & React Native <br/>
-Founder @ TechSolio | Building Scalable Web & Mobile Apps
+Software Engineer | MERN Stack & React Native <br/> Building Scalable Web & Mobile Apps
 </h3>
 
 <p align="center">
