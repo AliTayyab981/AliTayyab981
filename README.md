@@ -89,12 +89,4 @@ I’ve worked on **real-world applications** involving dashboards, admin panels,
 </a>
 </p>
 
-- 📄 Resume:  
-  https://github.com/AliTayyab981/resume/blob/main/New%20Cv.pdf  
 - 📧 Email: **alitayyab35102@gmail.com**
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alitayyab981&show_icons=true&locale=en&layout=compact" />
-</p>
