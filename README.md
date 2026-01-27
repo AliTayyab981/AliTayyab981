@@ -12,51 +12,62 @@ Building Scalable Web & Mobile Applications
 
 ### 👨‍💻 About Me
 
-I’m a **Software Engineer with 2+ years of hands-on experience** building and deploying **production-ready web and mobile applications** using the **MERN stack and React Native**.
+I’m a **Software Engineer with 2+ years of hands-on experience** building and deploying **production-ready web and mobile applications** using **React, React Native, Node.js, and modern cloud tools**.
 
-I have worked on **real-world, scalable products** across web and mobile, handling everything from **frontend development** to **backend APIs**, deployments, and performance optimization. I enjoy working in fast-paced environments and building solutions that solve real business problems.
+I’ve worked on **real-world applications** involving dashboards, admin panels, APIs, authentication systems, and scalable architectures. I enjoy working in fast-paced environments, writing clean code, and building products that solve real business problems.
 
 ---
 
-### 🚀 Projects & Work
+### 🚀 Projects
 
 - **Pulsvina**  
-  A blood donation platform featuring:
+  Blood donation platform featuring:
   - Web App & Mobile App  
   - Admin Dashboard  
-  - Authentication & APIs  
+  - REST APIs & Authentication  
   - SEO & Production Deployment  
 
 - **Chatrout**  
   Real-time chat application (Web & Mobile)  
-  Focused on scalability, performance, and real-time communication
+  Built with focus on performance, scalability, and real-time communication
 
-- **TechSolio Projects**  
-  Multiple client-facing web systems, dashboards, and internal tools built for business automation and scalability
+- **Other MERN Projects**  
+  Dashboards, internal tools, and client-facing applications built using modern frontend and backend stacks
 
 ---
 
 ### 🧠 What I Do
 
 - Full-Stack Development (MERN)
-- React.js & React Native Applications
-- RESTful APIs & Authentication
-- Dashboards & Admin Panels
-- Role-Based Access Control
-- Deployment & Environment Configuration
+- Frontend Development with React.js
+- Mobile App Development with React Native
+- Backend APIs with Node.js & Express
+- Authentication & Authorization
+- Cloud Deployment & Environment Setup
 - Performance Optimization
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Technical Stack
 
 <p align="left">
+<!-- Frontend -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+
+<!-- Backend -->
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+
+<!-- Databases -->
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+
+<!-- Cloud & DevOps -->
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-<a href="https://appwrite.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40"/></a>
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ---
@@ -65,17 +76,14 @@ I have worked on **real-world, scalable products** across web and mobile, handli
 
 - **Software Engineer – Wayout Lab**  
   Developing scalable web applications using React.js, Node.js, Express.js, and MongoDB.  
-  Worked on production dashboards, admin panels, APIs, and client-facing systems.
-
-- **Software Engineer – TechSolio (Product-Based Work)**  
-  Contributed to building and maintaining production-level web and mobile applications used by real users.
+  Built production dashboards, admin panels, REST APIs, and optimized frontend performance for real client projects.
 
 ---
 
 ### 🌱 Currently
 
-- 🔭 Working on scalable MERN & React Native projects  
-- 🌱 Learning **Next.js** and modern frontend architecture  
+- 🔭 Working on MERN & React Native applications  
+- 🌱 Learning **Next.js**, **AWS**, and **DevOps workflows**
 
 ---
 
