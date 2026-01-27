@@ -80,21 +80,12 @@ I’ve worked on **real-world applications** involving dashboards, admin panels,
 
 ---
 
-### 🌱 Currently
-
-- 🔭 Working on MERN & React Native applications  
-- 🌱 Learning **Next.js**, **AWS**, and **DevOps workflows**
-
----
 
 ### 📫 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-tayyab/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/ali_tayyab_riaz/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 </p>
 
