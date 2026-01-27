@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Tayyab</h1>
 <h3 align="center">
-Software Engineer | MERN Stack & React Native <br/> Building Scalable Web & Mobile Apps
+Software Engineer | MERN Stack & React Native <br/>
+Building Scalable Web & Mobile Applications
 </h3>
 
 <p align="center">
@@ -13,34 +14,35 @@ Software Engineer | MERN Stack & React Native <br/> Building Scalable Web & Mobi
 
 I’m a **Software Engineer with 2+ years of hands-on experience** building and deploying **production-ready web and mobile applications** using the **MERN stack and React Native**.
 
-Alongside my engineering role, I’m the **Founder of TechSolio**, a service-based software house focused on **Web, Mobile, SaaS, and Business Automation solutions**. I work across the full product lifecycle — from idea and system design to development, deployment, and optimization.
+I have worked on **real-world, scalable products** across web and mobile, handling everything from **frontend development** to **backend APIs**, deployments, and performance optimization. I enjoy working in fast-paced environments and building solutions that solve real business problems.
 
 ---
 
-### 🚀 Products & Projects
-
-- **TechSolio**  
-  Web presence, internal systems, and scalable client solutions for startups and businesses
+### 🚀 Projects & Work
 
 - **Pulsvina**  
-  Blood donation platform with:
+  A blood donation platform featuring:
   - Web App & Mobile App  
-  - Admin Panel  
+  - Admin Dashboard  
+  - Authentication & APIs  
   - SEO & Production Deployment  
 
 - **Chatrout**  
   Real-time chat application (Web & Mobile)  
-  Designed for scalability, performance, and real-time communication
+  Focused on scalability, performance, and real-time communication
+
+- **TechSolio Projects**  
+  Multiple client-facing web systems, dashboards, and internal tools built for business automation and scalability
 
 ---
 
-### 🧠 What I Work With
+### 🧠 What I Do
 
 - Full-Stack Development (MERN)
-- React.js & React Native
-- REST APIs & Authentication
+- React.js & React Native Applications
+- RESTful APIs & Authentication
 - Dashboards & Admin Panels
-- Role-based Access Control
+- Role-Based Access Control
 - Deployment & Environment Configuration
 - Performance Optimization
 
@@ -61,18 +63,19 @@ Alongside my engineering role, I’m the **Founder of TechSolio**, a service-bas
 
 ### 💼 Experience
 
-- **Founder – TechSolio**  
-  Leading product development, architecture, and delivery of scalable solutions
-
 - **Software Engineer – Wayout Lab**  
-  Building production dashboards, admin panels, APIs, and data-driven applications for real clients
+  Developing scalable web applications using React.js, Node.js, Express.js, and MongoDB.  
+  Worked on production dashboards, admin panels, APIs, and client-facing systems.
+
+- **Software Engineer – TechSolio (Product-Based Work)**  
+  Contributed to building and maintaining production-level web and mobile applications used by real users.
 
 ---
 
 ### 🌱 Currently
 
-- 🔭 Working on scalable web & mobile products  
-- 🌱 Learning **Next.js** and advanced frontend architecture  
+- 🔭 Working on scalable MERN & React Native projects  
+- 🌱 Learning **Next.js** and modern frontend architecture  
 
 ---
 
