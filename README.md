@@ -12,27 +12,35 @@ Building Scalable Web & Mobile Applications
 
 ### 👨‍💻 About Me
 
-I’m a **Software Engineer with 2+ years of hands-on experience** building and deploying **production-ready web and mobile applications** using **React, React Native, Node.js, and modern cloud tools**.
+I’m a **Software Engineer with 2+ years of hands-on experience** building and deploying  
+**production-ready web & mobile applications** using **React, React Native, Node.js, Firebase, AWS, and DevOps practices**.
 
-I’ve worked on **real-world applications** involving dashboards, admin panels, APIs, authentication systems, and scalable architectures. I enjoy working in fast-paced environments, writing clean code, and building products that solve real business problems.
+I focus on **clean architecture, scalability, performance, and real-world problem solving**.  
+I’ve built startups, SaaS products, dashboards, admin panels, APIs, and real-time systems.
 
 ---
 
-### 🚀 Projects
+### 🚀 Products & Projects
+
+- **Techsolio** *(Founder / Product Builder)*  
+  🌐 https://www.techsolio.com  
+  A software & product development brand focused on building scalable digital products, MVPs, and custom solutions.
 
 - **Pulsvina**  
-  Blood donation platform featuring:
+  🌐 https://www.pulsvina.com  
+  Blood donation & healthcare platform featuring:
   - Web App & Mobile App  
   - Admin Dashboard  
   - REST APIs & Authentication  
   - SEO & Production Deployment  
 
 - **Chatrout**  
+  🌐 https://chatrout-web.vercel.app/  
   Real-time chat application (Web & Mobile)  
-  Built with focus on performance, scalability, and real-time communication
+  Built with focus on **performance, scalability, sockets, and real-time communication**
 
 - **Other MERN Projects**  
-  Dashboards, internal tools, and client-facing applications built using modern frontend and backend stacks
+  Dashboards, internal tools, admin panels, and client-facing applications built using modern stacks
 
 ---
 
@@ -43,7 +51,8 @@ I’ve worked on **real-world applications** involving dashboards, admin panels,
 - Mobile App Development with React Native
 - Backend APIs with Node.js & Express
 - Authentication & Authorization
-- Cloud Deployment & Environment Setup
+- Cloud Deployment (AWS, Firebase)
+- DevOps Basics (CI/CD, Hosting, Environments)
 - Performance Optimization
 
 ---
@@ -52,22 +61,38 @@ I’ve worked on **real-world applications** involving dashboards, admin panels,
 
 <p align="left">
 <!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
 
 <!-- Backend -->
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+</a>
 
 <!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
 
 <!-- Cloud & DevOps -->
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+</a>
 
 <!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+</a>
 </p>
 
 ---
@@ -75,11 +100,10 @@ I’ve worked on **real-world applications** involving dashboards, admin panels,
 ### 💼 Experience
 
 - **Software Engineer – Wayout Lab**  
-  Developing scalable web applications using React.js, Node.js, Express.js, and MongoDB.  
+  Developing scalable web applications using **React.js, Node.js, Express.js, and MongoDB**.  
   Built production dashboards, admin panels, REST APIs, and optimized frontend performance for real client projects.
 
 ---
-
 
 ### 📫 Connect With Me
 
