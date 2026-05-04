@@ -12,7 +12,7 @@ Building Scalable Web & Mobile Applications
 
 ### 👨‍💻 About Me
 
-I’m a **Software Engineer with 2+ years of hands-on experience** building and deploying  
+I’m a **Software Engineer with 4+ years of hands-on experience** building and deploying  
 **production-ready web & mobile applications** using **React, React Native, Node.js, Firebase, AWS, and DevOps practices**.
 
 I focus on **clean architecture, scalability, performance, and real-world problem solving**.  
