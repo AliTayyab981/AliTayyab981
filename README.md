@@ -1,116 +1,78 @@
 <h1 align="center">Hi 👋, I'm Ali Tayyab</h1>
+
 <h3 align="center">
-Software Engineer | MERN Stack & React Native <br/>
+Full Stack Software Engineer | MERN Stack & React Native <br/>
 Building Scalable Web & Mobile Applications
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alitayyab981&label=Profile%20views&color=0e75b6&style=flat" alt="alitayyab981" />
+  <img src="https://komarev.com/ghpvc/?username=alitayyab981&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a **Software Engineer with 4+ years of hands-on experience** building and deploying  
-**production-ready web & mobile applications** using **React, React Native, Node.js, Firebase, AWS, and DevOps practices**.
+I am a **Full Stack Software Engineer** with hands-on experience in building and deploying **scalable web and mobile applications** using the MERN stack and React Native.
 
-I focus on **clean architecture, scalability, performance, and real-world problem solving**.  
-I’ve built startups, SaaS products, dashboards, admin panels, APIs, and real-time systems.
+I specialize in **clean architecture, performance optimization, RESTful APIs, and real-time applications** with a strong focus on delivering production-ready solutions.
 
 ---
 
-### 🚀 Products & Projects
+### 🚀 Projects
 
-- **Techsolio** *(Founder / Product Builder)*  
-  🌐 https://www.techsolio.com  
-  A software & product development brand focused on building scalable digital products, MVPs, and custom solutions.
+- **Techsolio (Founder)**  
+  Software development brand focused on building scalable digital products, MVPs, and custom solutions.
 
 - **Pulsvina**  
-  🌐 https://www.pulsvina.com  
-  Blood donation & healthcare platform featuring:
-  - Web App & Mobile App  
-  - Admin Dashboard  
-  - REST APIs & Authentication  
-  - SEO & Production Deployment  
+  Healthcare platform for blood donation with web + mobile app, admin dashboard, authentication, and REST APIs.
 
 - **Chatrout**  
-  🌐 https://chatrout-web.vercel.app/  
-  Real-time chat application (Web & Mobile)  
-  Built with focus on **performance, scalability, sockets, and real-time communication**
+  Real-time chat application with Web & Mobile support using scalable backend architecture and socket-based communication.
 
-- **Other MERN Projects**  
-  Dashboards, internal tools, admin panels, and client-facing applications built using modern stacks
+- **Live Kanvas**  
+  Video streaming platform with responsive UI and cross-device compatibility.
+
+- **Undiscovered Hoops**  
+  Sports platform with real-time stats, tracking, and interactive features.
 
 ---
 
 ### 🧠 What I Do
 
-- Full-Stack Development (MERN)
-- Frontend Development with React.js
-- Mobile App Development with React Native
-- Backend APIs with Node.js & Express
+- Full Stack Web Development (MERN)
+- Mobile App Development (React Native)
+- REST API Development (Node.js / Express)
+- Database Design (MongoDB / PostgreSQL)
 - Authentication & Authorization
-- Cloud Deployment (AWS, Firebase)
-- DevOps Basics (CI/CD, Hosting, Environments)
 - Performance Optimization
+- Deployment (AWS / Firebase)
 
 ---
 
-### 🛠 Technical Stack
+### 🛠 Tech Stack
 
-<p align="left">
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://reactnative.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Backend -->
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Cloud & DevOps -->
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-</a>
-</p>
+Frontend: React.js, React Native, Next.js  
+Backend: Node.js, Express.js, REST APIs  
+Databases: MongoDB, PostgreSQL  
+Tools: Git, GitHub, AWS, Postman  
+Concepts: API Integration, SEO, Performance Optimization, Agile Development  
 
 ---
 
 ### 💼 Experience
 
-- **Software Engineer – Wayout Lab**  
-  Developing scalable web applications using **React.js, Node.js, Express.js, and MongoDB**.  
-  Built production dashboards, admin panels, REST APIs, and optimized frontend performance for real client projects.
+**Software Engineer – WayoutLab (Lahore, Pakistan)**  
+08/2022 – Present  
+
+- Developed and maintained scalable full-stack applications using React.js, Node.js, Express.js, and MongoDB  
+- Designed and implemented RESTful APIs for secure and real-time data flow  
+- Improved application performance through optimized code and database queries  
+- Collaborated with Agile teams using Git for version control  
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ali-tayyab/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
-
-- 📧 Email: **alitayyab35102@gmail.com**
+Email: **alitayyab35102@gmail.com**  
+LinkedIn: https://www.linkedin.com/in/ali-tayyab/
