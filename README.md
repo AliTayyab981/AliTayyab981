@@ -74,5 +74,5 @@ Concepts: API Integration, SEO, Performance Optimization, Agile Development
 
 ### 📫 Contact
 
-Email: **alitayyab35102@gmail.com**  
+Email: **alitayyab.developer@gmail.com**  
 LinkedIn: https://www.linkedin.com/in/ali-tayyab/
